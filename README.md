@@ -16,5 +16,5 @@ This tool ensures:
 - Asynchronous I/O operations for improved performance.
 
 - DRY (Don't Repeat Yourself) code principles.
--Automatic resource injection into each module.
+- Automatic resource injection into each module.
 - Built-in cleanup of source and temporary files.
