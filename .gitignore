@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not these!
+!*.py
+!.gitignore
+!requirements.txt
